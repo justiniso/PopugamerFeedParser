@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AppShopper.com: Popular New Apps (Paid) for iOS</title>
+		<link>http://appshopper.com</link>
+		<description>App Discovery</description>
+		<language>en-us</language>
+		<pubDate>Sat, 25 Feb 2012 14:34:13 EST</pubDate>
+		<lastBuildDate>Sat, 25 Feb 2012 14:34:13 EST</lastBuildDate>
+		<webMaster>webmaster@appshopper.com (Arnold Kim)</webMaster>
+		<atom:link href="http://appshopper.com/feed/?mode=featured&amp;filter=new&amp;type=paid&amp;platform=ios" rel="self" type="application/rss+xml"/>
+		
+		<item>
+		<title> Ravens Hills  (Games)</title>
+		<link>http://appshopper.com/games/ravens-hills</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/ravens-hills-Sat, 25 Feb 2012 13:10:22 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/503/029880.png" align="left"/>
+			<h3>Ravens Hills 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.0 (<a href="/link/ravens-hills">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/065/Purple/56/1e/e8/mzl.zzulycmr.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Ravens Hills is fully 3D Defense game made by MysticLine.Rebuild your castle from ruins to full glory during 20 levels by defeating a lot of different enemies. Build towers on 3 different terrains, use skills and spells for better strategy against enemies and bosses. Defend your castle at day and night, upgrade towers so they are stronger and have bigger chance to use special abilities. Be prepared, enemies are coming!FEATURES:- 3D environment- 20 day and night levels to play- 3 different terrains for towers- 3 spells to help defeat enemies- 18 skills for better strategy- 10 different enemies and final bosses- impressive music and sound effectsJoin us on Facebook: www.facebook.com/mysticlinegamesCOMPATIBLE ONLY with iPhone 4, 4S and iPad 2 devices.<br/><br/>
+			<a href="http://appshopper.com/games/ravens-hills">Ravens Hills</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 13:10:22 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Stochastik Drum Machine  (Music)</title>
+		<link>http://appshopper.com/music/stochastik-drum-machine</link>
+		<category>Music</category>
+		<guid isPermaLink="false">http://appshopper.com/music/stochastik-drum-machine-Sat, 25 Feb 2012 11:50:23 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/504/084052.png" align="left"/>
+			<h3>Stochastik Drum Machine 1.0.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Music<br />
+			<b>Price:</b> $4.99, <b>Version:</b> 1.0.0 (<a href="/link/stochastik-drum-machine">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r30/Purple/e9/51/96/mzl.drmtgeyp.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Stochastik is a full-featured Drum Machine with one outstanding difference.  Unlike any other Drum Machine, Stochastik lets you set a *probability* that a note will trigger for each step.  So, your basic beat can rock steady while accents and syncopation only happen every so often.Once you add chance into the mix, you can generate thousands of unique variations *automatically* in the time it takes to sequence (one, two or four) bars.  It's as easy as programming a static loop but it generates a dynamic track -- no more repetitive beats!  Over a thousand of high-quality samples are included, from classic analog drum machines of the past to pristine acoustic jazz and rock kits.  You can mix and match samples to create the perfect kit for each song. Plus, you can import your own samples through iTunes File Sharing, email or the Dropbox iPad App.Stochastik was made to share, so you can collaborate with your friends by emailing or uploading your song, pattern and kit settings.Stochastik plays well with other apps.  When you bounce your pattern to a wav file, it's automatically put in the clipboard for pasting into other apps.  With WIST, you can wirelessly sync with other devices.  With background audio, you can let Stochastik lay down the beat while you use a synth. MIDI is coming soon.☞ Audio Features:  ★ 15 Samples at a time, arranged in 3 banks of 5  ★ Over a thousand included drum, cymbal and percussion sounds -- acoustic, analog and digital. Learn more at http://stochastik.xitive.com/samples.html  ★ 32 Voices so you will have plenty of polyphony  ★ Bounce to 44.1Khz/16bit wav audio files  ★ Background Audio - the audio will continue to play when you switch apps.  ☆ Coming Soon: Export each drum as a separate track for mixing in your digital audio workstation☞ Sequencing Features:  ★ Stochastic programming of dynamic beats  ★ As many Patterns, Songs and Kits as you can fit on your device.  ★ Patterns can be 16, 32 or 64 steps long, and you can easily copy them to make tweaks.  ★ Quick touch pads on sequencer screen for jamming, recording your beats and making quick tweaks  ★ Sliders instead of knobs.  I wish every music app got rid of knobs  ★ Precise Entry (tap a number to bring up the keyboard) for maximum control over volume, pan, bpm and shuffle  ☆ Coming Soon: Mute / Solo, Set Volume per step.☞ Integration Features:  ★ Import/Export wav files, songs, patterns and kits through Email, iTunes File Sharing, the Dropbox iPad App and more  ★ AudioCopy &amp; Pasteboard support to use your drum patterns in GarageBand, BeatMaker and other compatible apps.  ★ Full &quot;Open In...&quot; support for working with other apps  ★ WIST so you can wirelessly sync Stochastik with other devices - http://www.korguser.net/wist/  ☆ Coming Soon: MIDI☞ Learning/Help Features:  ★ Screen overlay for quick reference of where everything is  ★ Full PDF Manual that introduces drum machines and describes how Stochastik's features work, in-depth  ★ Tutorial videos on YouTube  ★ Full E-Mail Support - support@xitive.com<br/><br/>
+			<a href="http://appshopper.com/music/stochastik-drum-machine">Stochastik Drum Machine</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 11:50:23 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> pxl.  (Photography)</title>
+		<link>http://appshopper.com/photography/pxl-2</link>
+		<category>Photography</category>
+		<guid isPermaLink="false">http://appshopper.com/photography/pxl-2-Sat, 25 Feb 2012 10:40:24 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/499/620829.png" align="left"/>
+			<h3>pxl. 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Photography<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/pxl-2">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/111/Purple/83/2e/c5/mzl.udktggws.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			INTRODUCTORY SALE! For a limited time you can get pxl 50% off!pxl allows you to create abstract compositions out of your own photos! choose between 9 different unique styles, pinch to change the image resolution or shake your device to randomly compile an image out of all possibilities available.With the help of pxl it is very easy to create a new avatar picture or a unique background for your iOS device!You can share your images on Twitter or Facebook, send your compositions via Email or save them to your Photo Album.Here you can see the App in action:http://vimeo.com/37368629<br/><br/>
+			<a href="http://appshopper.com/photography/pxl-2">pxl.</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 10:40:24 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> WonderCraft  (Games)</title>
+		<link>http://appshopper.com/games/wondercraft</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/wondercraft-Sat, 25 Feb 2012 10:40:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/502/431371.png" align="left"/>
+			<h3>WonderCraft 1.0.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $5.99, <b>Version:</b> 1.0.0 (<a href="/link/wondercraft">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r30/Purple/2a/a1/cb/mzl.vwutrgki.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			★★★Will be limited free at March the first★★★An all-new naval battle theme with real-time combat globally! WonderCraft is a multiplayer casually competitive PvP game that lets you conquer the seven seas in your battleship. Combat against thousands of other players across the world in a classic naval setting, sink enemy ships with powerful cannons, turn the tide of battle with the cunning use of various items, bask in your golden glory, and become lord of the waters.★ Massive multiplayer real-time PvP across the globePlayers from around the world can go online in WonderCraft at the same time and enjoy zero latency real-time combat! Choose your own nation in the game and fly your country’s colors as you sink ships from enemy nations on the high seas! Also, AI-controlled enemy ships will intrude player battles mid-fight; when that happens, players must combine forces to defeat the formidable enemy fleet.★ Fire at will!Simple and direct gameplay is the crux of WonderCraft’s casual concept. Speed boats, merchant ships, battlecruisers, even submarines and carriers are targets of your gunfire. You just need to click them, and then your gunfire will strike at the heart of these ships, turning them into scrap metal and sinking them into the deep ocean.★ Massive item variety to enhance the casually competitive experienceBe the first to own a powerful missile for major area destruction, or instantly become an indomitable juggernaut with one of many entertaining items that will change the course of battle and make your gameplay more fulfilling.★ Unique ships and medals of honorWhat type of ship do you prefer? Offensive, armor-clad or stylish? We’ve got them all.You’ll definitely find your favorite from one of the many fantastic battleships berthed at our harbor. Modify and level your battleship so that it will aid you in conquering the seas. WonderCraft also has medals of honor, which are the proof of your naval exploits, and are a standard that all commanders should aspire to.★ Classic naval battles in the Pacific and Atlantic arenasIf you know how epic the ocean is, you would know that conquering it is no mean feat. WonderCraft lets you take over the world’s waters any way you like. Expect different enemy ships in the variety of oceans; if speed boats and cargo ships are small fry to you, why not challenge the submarines and imposing carriers of other waters? They should prove a match for you.Join us on the WonderCraftGame Facebook page: http://www.facebook.com/WonderCraftGame Follow us on the WonderCraftGame Twitter page: http://twitter.com/WonderCraftGame Contact us in Email: npc.interactive@gmail.com<br/><br/>
+			<a href="http://appshopper.com/games/wondercraft">WonderCraft</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 10:40:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Annabel: adventures of the Egyptian princess  (Games)</title>
+		<link>http://appshopper.com/games/annabel-adventures-of-the-egyptian-princess</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/annabel-adventures-of-the-egyptian-princess-Sat, 25 Feb 2012 02:01:42 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/475/324677.png" align="left"/>
+			<h3>Annabel: adventures of the Egyptian princess 1.1</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $2.99, <b>Version:</b> 1.1 (<a href="/link/annabel-adventures-of-the-egyptian-princess">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/104/Purple/a3/0a/2e/mzl.ejdgsrar.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Annabel begins in modern times, when a young female archeolgist visits a museum in Egypt. She hears a disturbing ancient tale about another “Annabel,” a princess whose lover, Akhenaten was sacrificed to the gods by an evil high priest. As you learn during the first few minutes of the game, the nasty Amertekh is keeping Princess Annabel captive and is forcing her to marry him so he will become a full-fledged Pharaoh and can take control over Egypt. Annabel has five different episodes: the palace of the pharaoh, a pyramid, an ancient Egyptian village, a ship sailing on the Nile, and the sanctuary of the almighty god Seth. There are lots of locations in each part and all of them are fraught with many pitfalls and mysteries. Features: - Intriguing plot. - Refined graphics and spellbinding soundtrack. - Colorful three-dimensional characters. - Original puzzles and mini games. - 5 different episodes. Will she change the course of history, to avoid tragic fate and save her love? ---------------------------------------------------------- LIKE GAMES BY NEVOSOFT? WHY NOT TRY SOME OF OUR OTHER GAMES! LandGrabbers: This addictive game combines classic elements of strategy, simulator, and resource management. Nothing can stop you from conquering the world now! Pioneer lands: an addictive combination of business simulation and strategy set on the frontier of America's Old West! A true Western casual game! Paradise beach: build a beach resort of your dream in a new addictive tycoon-style, click management game! Million Dollar Quest: Solve the mystery from main hero’s childhood, travel the world and win one million dollars in the unique mixture of hidden object, puzzle and adventure genres! My Kingdom for the Princess 2: The adventures of Arthur and Princess Helen continue in this long awaited sequel to the addictive strategy, time management, simulation game Supercow: super-dynamic arcade game about the adventures of a new character that deserves everyone's attention! Supercow doesn’t give milk, she just rocks! Magic Academy: fascinating adventure game that mixes hidden object hunts with mini-games and sorcery Dream Sleuth: Travel in the world of your dreams and save the girl in this thrilling hidden object puzzle adventure! Zzed: a logic marble-popper game filled with fun and humor! Laura Jones and the Gates of Good and Evil: Meet amusing characters and hunt for hidden objects as you try to save the world. Laura Jones and the Secret Legacy of Nikola Tesla: Test your Hidden Object skills as you race against time and the other people chasing down Tesla's invention! Pantheon: Unlock magic artifacts of ancient deities on an amazing match-3 journey through beautiful locations of the Ancient India. 10 Talismans: Set to stunning oriental vistas, this match-3 puzzle game puts you on a quest to collect ten powerful talismans. --------------------------------------------------------- Get the inside scoop on Nevosoft Games: Join us on Facebook: www.facebook.com/Nevosoft Follow us on Twitter: http://twitter.com/NevosoftGames Watch us on YouTube: http://www.youtube.com/NevosoftCOM Visit our site: http://www.iphone.nevosoft.com --------------------------------------------------------- THIS GAME WAS PUBLISHED BY NEVOSOFT. If you want to successfully release your game on the App Store, write us at publishing@nevosoft.com. Our experts perform the following services: - Producing your game in the final stages of development - Localizing it into more than 10 languages - Preparing your game for release (and the release itself) - Marketing (We have a loyal client base of over a million users) - Promoting your game in various media - Providing quality customer support.<br/><br/><b>What's New</b><br /><br />Improved English voice overGerman voice over addedGet the inside scoop on Nevosoft Games: Join us on Facebook: www.facebook.com/Nevosoft Follow us on Twitter: http://twitter.com/NevosoftGames Watch us on YouTube: http://www.youtube.com/NevosoftCOM Visit our site: http://www.iphone.nevosoft.com<br/><br/>
+			<a href="http://appshopper.com/games/annabel-adventures-of-the-egyptian-princess">Annabel: adventures of the Egyptian princess</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 02:01:42 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Steel Runner  (Games)</title>
+		<link>http://appshopper.com/games/steel-runner</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/steel-runner-Sat, 25 Feb 2012 00:01:49 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/496/435390.png" align="left"/>
+			<h3>Steel Runner 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/steel-runner">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r1000/119/Purple/16/ef/41/mzl.slgdronw.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Do Dash and Do Shoot !!!Steel Runner is Run &amp; Jump game that utilizes the barrage shooting game system. - Simple controls- 8 types of various weapons- 3 skills of character- 10 types of enemies unit- 50 unique missions- Helpful ingame items- 3 different kinds of modes in onegame- Bigsize boss units- Outstanding Artwork- Original sound and voice- Supports gamecenter leaderboards and achievements<br/><br/>
+			<a href="http://appshopper.com/games/steel-runner">Steel Runner</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 00:01:49 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Annabel HD: adventures of the Egyptian princess  (Games)</title>
+		<link>http://appshopper.com/games/annabel-hd-adventures-of-the-egyptian-princess</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/annabel-hd-adventures-of-the-egyptian-princess-Sat, 25 Feb 2012 00:01:49 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/475/325889.png" align="left"/>
+			<h3>Annabel HD: adventures of the Egyptian princess 1.1</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $4.99, <b>Version:</b> 1.1 (<a href="/link/annabel-hd-adventures-of-the-egyptian-princess">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r1000/106/Purple/e5/c3/3c/mzl.awiynuhi.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Annabel begins in modern times, when a young female archeolgist visits a museum in Egypt. She hears a disturbing ancient tale about another “Annabel,” a princess whose lover, Akhenaten was sacrificed to the gods by an evil high priest. As you learn during the first few minutes of the game, the nasty Amertekh is keeping Princess Annabel captive and is forcing her to marry him so he will become a full-fledged Pharaoh and can take control over Egypt. Annabel has five different episodes: the palace of the pharaoh, a pyramid, an ancient Egyptian village, a ship sailing on the Nile, and the sanctuary of the almighty god Seth. There are lots of locations in each part and all of them are fraught with many pitfalls and mysteries. Features: - Intriguing plot. - Refined graphics and spellbinding soundtrack. - Colorful three-dimensional characters. - Original puzzles and mini games. - 5 different episodes. Will she change the course of history, to avoid tragic fate and save her love? ---------------------------------------------------------- LIKE GAMES BY NEVOSOFT? WHY NOT TRY SOME OF OUR OTHER GAMES! LandGrabbers: This addictive game combines classic elements of strategy, simulator, and resource management. Nothing can stop you from conquering the world now! Pioneer lands: an addictive combination of business simulation and strategy set on the frontier of America's Old West! A true Western casual game! Paradise beach: build a beach resort of your dream in a new addictive tycoon-style, click management game! Million Dollar Quest: Solve the mystery from main hero’s childhood, travel the world and win one million dollars in the unique mixture of hidden object, puzzle and adventure genres! My Kingdom for the Princess 2: The adventures of Arthur and Princess Helen continue in this long awaited sequel to the addictive strategy, time management, simulation game Supercow: super-dynamic arcade game about the adventures of a new character that deserves everyone's attention! Supercow doesn’t give milk, she just rocks! Magic Academy: fascinating adventure game that mixes hidden object hunts with mini-games and sorcery Dream Sleuth: Travel in the world of your dreams and save the girl in this thrilling hidden object puzzle adventure! Zzed: a logic marble-popper game filled with fun and humor! Laura Jones and the Gates of Good and Evil: Meet amusing characters and hunt for hidden objects as you try to save the world. Laura Jones and the Secret Legacy of Nikola Tesla: Test your Hidden Object skills as you race against time and the other people chasing down Tesla's invention! Pantheon: Unlock magic artifacts of ancient deities on an amazing match-3 journey through beautiful locations of the Ancient India. 10 Talismans: Set to stunning oriental vistas, this match-3 puzzle game puts you on a quest to collect ten powerful talismans. --------------------------------------------------------- Get the inside scoop on Nevosoft Games: Join us on Facebook: www.facebook.com/Nevosoft Follow us on Twitter: http://twitter.com/NevosoftGames Watch us on YouTube: http://www.youtube.com/NevosoftCOM Visit our site: http://www.iphone.nevosoft.com --------------------------------------------------------- THIS GAME WAS PUBLISHED BY NEVOSOFT. If you want to successfully release your game on the App Store, write us at publishing@nevosoft.com. Our experts perform the following services: - Producing your game in the final stages of development - Localizing it into more than 10 languages - Preparing your game for release (and the release itself) - Marketing (We have a loyal client base of over a million users) - Promoting your game in various media - Providing quality customer support.<br/><br/><b>What's New</b><br /><br />Improved English voice overGerman voice over addedGet the inside scoop on Nevosoft Games: Join us on Facebook: www.facebook.com/Nevosoft Follow us on Twitter: http://twitter.com/NevosoftGames Watch us on YouTube: http://www.youtube.com/NevosoftCOM Visit our site: http://www.iphone.nevosoft.com<br/><br/>
+			<a href="http://appshopper.com/games/annabel-hd-adventures-of-the-egyptian-princess">Annabel HD: adventures of the Egyptian princess</a><br /><br />
+		]]></description>
+		<pubDate>Sat, 25 Feb 2012 00:01:49 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Gridrunner  (Games)</title>
+		<link>http://appshopper.com/games/gridrunner</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/gridrunner-Fri, 24 Feb 2012 12:10:18 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/502/840657.png" align="left"/>
+			<h3>Gridrunner 0001.01.00</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 0001.01.00 (<a href="/link/gridrunner">iTunes</a>) <br/><br/>
+			<img src="http://a2.mzstatic.com/us/r30/Purple/d7/3f/15/mzl.ixrdatlt.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Here's another slick shooter from the developer who is rapidly gaining a reputation as the king of retro on iOS.Gridrunner was a much-loved and popular game on the Commodore Vic-20 and Commodore 64 back in 1982.  Here the game is reimagined by its original author in the style of an early 1980s coin-op arcade machine.  Of course this is a Minotaur Project game, so we ignore the limitations of such old hardware, borrowing just the style but presenting a slick, modern shooter that is a joy to play on iOS.As can be relied on in a Llamasoft game the controls are excellent and the gameplay fun, satisfying and rewarding.Gridrunner is OpenFeint enabled and supports leaderboards and achievements on both OpenFeint and GameCenter.Get your blasting trousers on and get ready to enjoy some classic shooting fun re-energised for the modern era.Another great Minotaur Project release.<br/><br/>
+			<a href="http://appshopper.com/games/gridrunner">Gridrunner</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 12:10:18 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Neoteria  (Games)</title>
+		<link>http://appshopper.com/games/neoteria</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/neoteria-Fri, 24 Feb 2012 04:40:17 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/503/652796.png" align="left"/>
+			<h3>Neoteria 1.0.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.0.0 (<a href="/link/neoteria">iTunes</a>) <br/><br/>
+			<img src="http://a2.mzstatic.com/us/r30/Purple/a8/a7/d7/mzl.frbwfznz.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Neoteria is a classic horizontal shoot em up game (shmup).  Multiple worlds, levels and aliens are waiting to be blasted.Our focus is on using your thumb like the 80's and 90's shooter games:  The faster your thumb, the faster you shoot !!  Give the controls a few minutes to get used to, they really work!Hidden worlds, different difficulty modes (un-lockable pilots)  AWESOME sound track and great retro graphics and sound effects.Game starts in easy mode, but Hard mode is as challenging as all our games are, getting the full 100% completion is not for the weak or casual gamer!<br/><br/>
+			<a href="http://appshopper.com/games/neoteria">Neoteria</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 04:40:17 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Zombie Granny HD  (Games)</title>
+		<link>http://appshopper.com/games/zombie-granny-hd</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/zombie-granny-hd-Fri, 24 Feb 2012 01:30:18 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/501/060613.png" align="left"/>
+			<h3>Zombie Granny HD 1.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $2.99, <b>Version:</b> 1.0 (<a href="/link/zombie-granny-hd">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r30/Purple/51/80/9c/mzl.uezadytl.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Will your mind and fingers be able to stop the Zombie invasion?Popular Testimonials:148apps:  «Zombie Granny is a must download and will surprise even the youngest of players!»Touch Arcade:   «A Stylish Take on Trial and Error Puzzles! This is an unusually good looking game!»Touch My Apps:  «The stylish graphics, polished game mechanics and diverse levels are sure to offer you hours of joy!»Zombie Granny is an addictive puzzle game with stunningly beautiful graphics and tricky missions.In this game you control the environmental objects to defeat cartoon zombies as fast and as effective as you can. Your mind and fingers are the main weapons as well as the motion control. Most of the levels require pure logic and will challenge you mind. Some of the stages use the arcade elements that will help you to relax.Travel through different worlds to exterminate zombies in all of them. Make sure to polish your skills, collect all the gems and set the best hi-score. Use your fingers to cut the ropes and break the chains. Watch closely as your actions put the scene in motion. Create passages by destroying obstacles and bring some action with the help of exploding boxes and shooting cannons.Game features: - 3 different worlds to conquer: Stonehenge, Police Station, Pirate Ship. - 45 beautiful and challenging puzzle levels to solve. - More than 100 zombies to kill. - 3 strong and clever bosses to defeat. - Lots of weapons to use: colored fireballs, bombs, boxes and other. - Lots of tricky devices to use: levers, springs, platforms and other. - Beautiful graphics. - Atmospheric music. - Funny and lovable heroes. - Arcade elements. - Easy-to-use level editor.Official Facebook Page:  http://www.facebook.com/pages/Zombie-Granny/119034981552989Gameplay video:  http://www.youtube.com/watch?v=e1VDp-p86aY&amp;context=C3a7d296ADOEgsToPDskIGYDyQ8N-ojjz-6xC1rWR0<br/><br/>
+			<a href="http://appshopper.com/games/zombie-granny-hd">Zombie Granny HD</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 01:30:18 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Zombie Granny  (Games)</title>
+		<link>http://appshopper.com/games/zombie-granny</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/zombie-granny-Fri, 24 Feb 2012 01:30:18 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/501/059753.png" align="left"/>
+			<h3>Zombie Granny 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/zombie-granny">iTunes</a>) <br/><br/>
+			<img src="http://a2.mzstatic.com/us/r30/Purple/02/ef/0e/mzl.jvrtbzhy.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Will your mind and fingers be able to stop the Zombie invasion? Popular Testimonials: 148apps: «Zombie Granny is a must download and will surprise even the youngest of players!» Touch Arcade: «A Stylish Take on Trial and Error Puzzles! This is an unusually good looking game!» Touch My Apps: «The stylish graphics, polished game mechanics and diverse levels are sure to offer you hours of joy!» Zombie Granny is an addictive puzzle game with stunningly beautiful graphics and tricky missions. In this game you control the environmental objects to defeat cartoon zombies as fast and as effective as you can. Your mind and fingers are the main weapons as well as the motion control. Most of the levels require pure logic and will challenge you mind. Some of the stages use the arcade elements that will help you to relax. Travel through different worlds to exterminate zombies in all of them. Make sure to polish your skills, collect all the gems and set the best hi-score. Use your fingers to cut the ropes and break the chains. Watch closely as your actions put the scene in motion. Create passages by destroying obstacles and bring some action with the help of exploding boxes and shooting cannons. Game features: - 3 different worlds to conquer: Stonehenge, Police Station, Pirate Ship. - 45 beautiful and challenging puzzle levels to solve. - More than 100 zombies to kill. - 3 strong and clever bosses to defeat. - Lots of weapons to use: colored fireballs, bombs, boxes and other. - Lots of tricky devices to use: levers, springs, platforms and other. - Beautiful graphics. - Atmospheric music. - Funny and lovable heroes. - Arcade elements. - Easy-to-use level editor. Official Facebook Page: http://www.facebook.com/pages/Zombie-Granny/119034981552989 Gameplay video: http://www.youtube.com/watch?v=e1VDp-p86aY&amp;context=C3a7d296ADOEgsToPDskIGYDyQ8-N-ojjz-6xC1rWR0<br/><br/>
+			<a href="http://appshopper.com/games/zombie-granny">Zombie Granny</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 01:30:18 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Spirit of Wandering - The Legend (Full)  (Games)</title>
+		<link>http://appshopper.com/games/spirit-of-wandering-the-legend-full</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/spirit-of-wandering-the-legend-full-Fri, 24 Feb 2012 01:10:18 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/477/451199.png" align="left"/>
+			<h3>Spirit of Wandering - The Legend (Full) 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $2.99, <b>Version:</b> 1.0 (<a href="/link/spirit-of-wandering-the-legend-full">iTunes</a>) <br/><br/>
+			<img src="http://a2.mzstatic.com/us/r1000/109/Purple/91/8d/51/mzl.ldejveyp.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Sign up for our mailing list! www.g5e.com/e-mailSail the seas with a pirate captain in search of her missing love in this adventurous, hidden-object quest! After an attack by the Flying Dutchman, the crew of the Spirit of Wandering and captain’s companion, Jack, were imprisoned in the spirit world. Use powerful tools such as the Crystal Orb, a trusty compass and the help of fellow prisoners to find hidden objects that are drifting between the two worlds. Remove the lingering curse and save those stuck in the spirit world!● 6 Gorgeous settings● 24 Challenging locations● Over 450 hidden objects ● 90 cherished items to discover● Game Center Support● iPhone 4 Retina Display support ● iOS 4+ multitasking support____________________________ A new game app every week - collect them all! Search for &quot;g5&quot; in iTunes! Hidden Object Games: ▶ Games Navigator – By G5 Games ▶ Royal Trouble: Hidden Adventures▶ Letters from Nowhere▶ The Magician's Handbook: Cursed Valley ▶ Kaptain Brawe: A Brawe New World ▶ Special Enquiry Detail ▶ Treasure Seekers 3 ▶ Romance of Rome ▶ Treasure Seekers ▶ Treasure Seekers 2 ▶ The Mystery of the Crystal Portal ▶ The Mystery of the Crystal Portal 2 ▶ Mushroom Age ▶ Mahjongg Artifacts® ▶ Mahjongg Artifacts® 2 ▶ Paranormal Agency Time Management Games: ▶ Fix-it-up: World Tour ▶ Youda Survivor ▶ Virtual City Playground ▶ Fix-it-up: Kate's Adventure ▶ Stand O’Food® 3 ▶ Jane's Hotel 2 ▶ Jack of All Tribes ▶ Virtual City ▶ Supermarket Mania® 2 ▶ Supermarket Mania® ▶ Stand O' Food® ▶ Jane’s Zoo ▶ Supermarket Management ▶ Jane's Hotel ▶ Success Story ▶ Aqua Pearls ▶ Yumsters! 2 ____________________________ VISIT US: www.g5e.com WATCH US: www.youtube.com/g5enter FIND US: www.facebook.com/g5games FOLLOW US: www.twitter.com/g5games<br/><br/>
+			<a href="http://appshopper.com/games/spirit-of-wandering-the-legend-full">Spirit of Wandering - The Legend (Full)</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 01:10:18 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Spirit of Wandering - The Legend HD (Full)  (Games)</title>
+		<link>http://appshopper.com/games/spirit-of-wandering-the-legend-hd-full</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/spirit-of-wandering-the-legend-hd-full-Fri, 24 Feb 2012 00:00:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/477/453478.png" align="left"/>
+			<h3>Spirit of Wandering - The Legend HD (Full) 1.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $4.99, <b>Version:</b> 1.0 (<a href="/link/spirit-of-wandering-the-legend-hd-full">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/097/Purple/85/16/ea/mzl.rsyetvej.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Sign up for our mailing list! www.g5e.com/e-mailSail the seas with a pirate captain in search of her missing love in this adventurous, hidden-object quest! After an attack by the Flying Dutchman, the crew of the Spirit of Wandering and captain’s companion, Jack, were imprisoned in the spirit world. Use powerful tools such as the Crystal Orb, a trusty compass and the help of fellow prisoners to find hidden objects that are drifting between the two worlds. Remove the lingering curse and save those stuck in the spirit world!● 6 Gorgeous settings● 24 Challenging locations● Over 450 hidden objects ● 90 cherished items to discover● Game Center Support● iOS 4+ multitasking support____________________________ A new game app every week - collect them all! Search for &quot;g5&quot; in iTunes! Hidden Object Games: ▶ Games Navigator – By G5 Games▶ Royal Trouble: Hidden Adventures HD▶ Letters from Nowhere HD  ▶ The Magician's Handbook: Cursed Valley HD ▶ Kaptain Brawe: A Brawe New World HD▶ Special Enquiry Detail HD ▶ Treasure Seekers 3 HD ▶ Romance of Rome HD ▶ Treasure Seekers HD ▶ Treasure Seekers 2 HD ▶ The Mystery of the Crystal Portal HD ▶ The Mystery of the Crystal Portal 2 HD ▶ Mushroom Age HD ▶ Mahjongg Artifacts® HD ▶ Mahjongg Artifacts® 2 HD ▶ Paranormal Agency HD Time Management Games: ▶ Fix-it-up: World Tour HD ▶ Youda Survivor HD ▶ Fix-it-up: Kate's Adventure HD ▶ Stand O’Food® 3 HD ▶ Virtual City Playground HD ▶ Dress Up Rush HD ▶ Jack of All Tribes HD ▶ Supermarket Mania® 2 HD ▶ Supermarket Mania® HD ▶ Virtual City HD ▶ Stand O' Food® HD ▶ Supermarket Management HD ▶ Success Story HD ▶ Elves Inc. HD ____________________________ VISIT US: www.g5e.com WATCH US: www.youtube.com/g5enter FIND US: www.facebook.com/g5games FOLLOW US: www.twitter.com/g5games<br/><br/>
+			<a href="http://appshopper.com/games/spirit-of-wandering-the-legend-hd-full">Spirit of Wandering - The Legend HD (Full)</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 00:00:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Ironworm  (Games)</title>
+		<link>http://appshopper.com/games/ironworm</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/ironworm-Fri, 24 Feb 2012 00:00:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/497/342933.png" align="left"/>
+			<h3>Ironworm 1.0.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0.0 (<a href="/link/ironworm">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/113/Purple/10/2b/61/mzl.nygxcjqp.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Ironworm, the toughest and stretchiest hero this side of Skull Peaks, is about to kick some bug behind!☠ 30 increasingly challenging levels to conquer☠ Engaging physics based game play☠ Swarms of brutal enemies☠ Iron riveted attitude☠ Universal + retina graphics☠ Awesome guitar sound trackAn epic war waged against the bugs for decades is about to culminate in a final showdown. A massive horde of buzzing enemies stands in Ironworm's way. Some will mercilessly home in on the squishy hero, others will shoot from the distance, or even explode in his face. As Ironworm, you must rely on his spiked tail and fight your way towards the final challenge: The villainous Boss Bug himself.Visit the 10tons Ltd Web Site to view some gameplay video.<br/><br/>
+			<a href="http://appshopper.com/games/ironworm">Ironworm</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 00:00:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Shin Megami Tensei  (Games)</title>
+		<link>http://appshopper.com/games/shin-megami-tensei</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/shin-megami-tensei-Fri, 24 Feb 2012 00:00:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/501/271388.png" align="left"/>
+			<h3>Shin Megami Tensei 1.0.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $13.99, <b>Version:</b> 1.0.0 (<a href="/link/shin-megami-tensei">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r1000/060/Purple/a9/ec/a8/mzl.yewbwrto.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Shin Megami Tensei (literally True Goddess Reincarnation) is a role-playing video game from Atlus that was originally released on October 30, 1992 in Japan.  The game was extremely well received and would spawn a variety of sequels and spin offs.PLOTThe story is set in Tokyo in the year 199X. Demons from the nether-realm of Makai have found their way back to Earth, and as such have upset the balance of power. A charismatic Japanese leader attempts a coup d'état using these demons as a potent military force, forcing America to intervene with its military. The player, as the hero, becomes involved when sent a Devil Summoning Program via email which allows him to converse with and recruit demons to fight for him, storing them as digital data on his computer.In the aftermath of the ensuing destruction, the hero must decide what kind of world should be created on its ruins. Will he side with the angels and create a kingdom of absolute order that would last for a thousand years, or will he side with the demons and bring about an eternal anarchy, or will he choose neither, and destroy everyone who opposes him?GAMEPLAYThe game features two types of characters: Humans and Demons. A key facet of game play involves collecting demons. The human Hero acquires these demons via negotiation, bribing and coercion during battle. Once acquired, they can be stored in the party's portable computer and summoned for a small amount of money to be used in battle, and a constant feed of Magnetite (a secondary currency in the game) to be maintained outside of combat. If a demon is defeated during a battle, they must be revived before they can be used again.A notable aspect of the game is that the player can combine two or three demons and create a more powerful demon.HUMANS:Human characters can equip firearms with special ammo, melee weapons, and multiple pieces of armor from helmet to boots, although certain weapons can only be wielded by a character of a specific alignment. Humans are also the only ones capable of leveling up and having their Stats upgraded at the discretion of the player.DEMONS:There are a wide variety of demons from various mythologies in Shin Megami Tensei; each has its own unique statistics, and a skillset of up to three abilities or spells.!NOTEThis game is not translated and displays Japanese text only.<br/><br/>
+			<a href="http://appshopper.com/games/shin-megami-tensei">Shin Megami Tensei</a><br /><br />
+		]]></description>
+		<pubDate>Fri, 24 Feb 2012 00:00:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Billr: Bill Splitting at the Table  (Utilities)</title>
+		<link>http://appshopper.com/utilities/billr-bill-splitting-at-the-table</link>
+		<category>Utilities</category>
+		<guid isPermaLink="false">http://appshopper.com/utilities/billr-bill-splitting-at-the-table-Thu, 23 Feb 2012 23:10:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/501/889312.png" align="left"/>
+			<h3>Billr: Bill Splitting at the Table 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Utilities<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/billr-bill-splitting-at-the-table">iTunes</a>) <br/><br/>
+			<img src="http://a2.mzstatic.com/us/r30/Purple/6d/8a/bf/mzl.rgcfirzp.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			***** LIMITED TIME LAUNCH SPECIAL -- Get Billr for just &#36;0.99 today *****Billr: Bill Splitting at the TableThe quickest way to split a bill and calculate the tip at restaurants and bars.Easy to use:1) Pick your party size -- up to 16 people!2) List the cost of each dish.3) Set the tax and tip amounts.4) Show each person what they owe on your phone, or send them a copy of the split bill by text message or email.Billr:  A feature-complete tip calculator and check splitting utility for iPhone and iPod Touch.<br/><br/>
+			<a href="http://appshopper.com/utilities/billr-bill-splitting-at-the-table">Billr: Bill Splitting at the Table</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 23:10:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> The Sims™ Medieval For iPad  (Games)</title>
+		<link>http://appshopper.com/games/the-sims-medieval-for-ipad</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/the-sims-medieval-for-ipad-Thu, 23 Feb 2012 22:06:03 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/500/931993.png" align="left"/>
+			<h3>The Sims™ Medieval For iPad 1.0.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $2.99, <b>Version:</b> 1.0.0 (<a href="/link/the-sims-medieval-for-ipad">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r30/Purple/4d/44/f7/mzl.dpbchgqg.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			**Special introductory price – get 40% OFF now! Limited time only. So, make haste! **SEND YOUR SIMS™ BACK TO MEDIEVAL TIMES – ON iPAD! Create heroes, venture on quests and experience an ancient land of adventure, drama and romance!THE SIMS™ GO OLDE SCHOOL ON iPADThe time of castles, kings, jesters and knights is now bigger, bolder and brighter! View all the feuding, feasting and frivolity with the visual glory of iPad. ‘Tis most splendid!MAKE YOUR OWN DESTINYCreate your hero and determine your Sim’s destiny in this new fantasy. Role-play as a serf, squire, Lady or Lord. Even play as a Vampire! DELVE INTO A MAGIC STORY-DRIVEN WORLDComplete quests to propel your Sims onward. Master skills and make wizardly potions like a death potion – or a love potion. Join parties across a richly detailed medieval realm, or test your skills with features like combat and fishing. So, come hither and let your quest begin!<br/><br/>
+			<a href="http://appshopper.com/games/the-sims-medieval-for-ipad">The Sims™ Medieval For iPad</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 22:06:03 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> The Guitar Collection: George Harrison  (Music)</title>
+		<link>http://appshopper.com/music/the-guitar-collection-george-harrison</link>
+		<category>Music</category>
+		<guid isPermaLink="false">http://appshopper.com/music/the-guitar-collection-george-harrison-Thu, 23 Feb 2012 20:10:20 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/499/105381.png" align="left"/>
+			<h3>The Guitar Collection: George Harrison 1</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Music<br />
+			<b>Price:</b> $9.99, <b>Version:</b> 1 (<a href="/link/the-guitar-collection-george-harrison">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r30/Purple/47/40/74/mzl.iufmaviv.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			The Guitar Collection: George Harrison is an exploration of Harrison’s historic guitars, instruments that the legendary artist played on some of the most famous songs in music history. From his years with The Beatles to his vaunted solo career, Harrison’s talent continues to define the sound of popular music. For the first time, with the help of unique 360° imaging by photographer Steven Sebring, fans can see the scratches, dings and worn threads on the guitars as if they were holding the instruments themselves.Inside the app: -360° images of 7 of Harrison’s guitars, including the psychedelic Stratocaster “Rocky,” the Rosewood Telecaster, the Rickenbacker 12-String and more-Future updates that make even more of George's guitars available -Detailed histories and descriptions of each guitar, including the origin of the guitar, when and how it came to be a part of Harrison’s collection, modifications he made to it, and why each was so important in creating his distinctive sound -An innovative music library that allows you to listen to your personal Harrison music collection as you tour his guitars -Rare audio of George introducing many of the guitars and demonstrating their tone -Ultra hi-res images of all guitars -Exclusive videos of Dhani Harrison, Ben Harper, Josh Homme (Queens of the Stone Age), Conan O’Brien and Mike Campbell (Tom Petty and the Heartbreakers) playing George’s guitars -Interviews with acclaimed guitarist Gary Moore -Historical images of George Harrison and his guitars -Digital postcards that allow you to share the Guitar Collection<br/><br/>
+			<a href="http://appshopper.com/music/the-guitar-collection-george-harrison">The Guitar Collection: George Harrison</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 20:10:20 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Tap The Frog 2  (Games)</title>
+		<link>http://appshopper.com/games/tap-the-frog-2</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/tap-the-frog-2-Thu, 23 Feb 2012 16:30:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/483/353496.png" align="left"/>
+			<h3>Tap The Frog 2 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/tap-the-frog-2">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/073/Purple/20/37/2d/mzl.bmjmayog.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Want to see why over 7,000,000 PEOPLE have played Tap the Frog and Tap the Frog 2 on their phones and online? Then, hop in and see how fast your fingers really are…Everyone’s favorite frog is back in Tap the Frog 2 and this time he’s on a mission to become a Frog Prince!  Can you help him to rise through the ranks and win his sweetheart back? Join the frog as he embarks on an adventure that will take him from the lily pads of his home pond to the farthest reaches of outer space. Do you have what it takes to help the frog pop, paint, jump, and build his way to victory? If so, jump in and see how fast your fingers are! Easy to play yet challenging to master, Tap the Frog 2 features hours of replay value. So what are you waiting for? Get tapping. Get Tap the Frog 2.Thanks to everyone who helped to make Tap the Frog 2 the #1 GAME IN SEVERAL COUNTRIES. REVIEWERS LOVE TAP THE FROG 2•This is definitely a well-polished game that’s quite entertaining. - Appadvice.com•The continuation of the phenomenally successful reaction game is even more fun than its free-of-charge predecessor. – iFun.de•Tap the Frog 2 is a very cool game! - iFloboleOUR FROG FANS LOVE IT EVEN MORE! •Awesome game, cutest frog character, state-of-art graphics and sound. Can't stop tapping. Adore the frog! - SophiaKaterina•This is the best app ever. Filled with froggy goodness. You really get your money’s worth! :) - Samuel T•It's awesome! I'm looking forward for more levels! Honestly! Amazing graphics and friendly gameplay. Good job guys! - JohnsonTan90•Frogtastic! - Jammin joe21Already a fan? LIKE US: http://www.facebook.com/tapthefrog FOLLOW US: http://www.twitter.com/tapthefrog<br/><br/>
+			<a href="http://appshopper.com/games/tap-the-frog-2">Tap The Frog 2</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 16:30:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Take It Easy!  (Games)</title>
+		<link>http://appshopper.com/games/take-it-easy</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/take-it-easy-Thu, 23 Feb 2012 16:20:20 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/480/691712.png" align="left"/>
+			<h3>Take It Easy! 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/take-it-easy">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r30/Purple/52/94/9e/mzl.dhdicvkt.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			It’s a puzzle, it’s a brain teaser, it’s a game! It’s all three and much more! It is bingo with strategy! Place your pieces one at a time on the board. Try to form continuous rows of color from edge to edge. But one wrong tile and the whole row is worthless. It gets harder as the number of empty spaces on your board, and your possible choices, diminish. Because once a tile is placed, it can’t be moved!Take It Easy is a simple, yet surprisingly addictive and thought-provoking game that'll give you endless hours of fun.YouTube Videohttp://www.youtube.com/watch?v=WnXoKXCJ4iUFEATURES• iPad, iPhone &amp; iPhone Retina version all-in-one!• Three entertaining and visually beautiful game modes to choose from.• The Classic Mode will introduce you to the game that started it all.  Already over a million copies of the award winning board game have been enjoyed by fans worldwide.• The Puzzle Mode will test your puzzle solving skills with 100 fun and well designed puzzles. This exciting new twist to the game will have you swapping pieces in your sleep. This mode will appeal to puzzle solvers everywhere.• Last but not least, the Progressive Mode offers 30 stages of different challenges specifically designed for the iOS version.  Conquer all 30 stages before time runs out!• Game Center integration lets you compare high scores with your friends and players around the world. See if you can earn a prestigious spot in the TIE Master leaderboard.• Over 40 different achievements. Earn points to get that #1 rank and, along the way, win surprising rewards to customize your gameplay.<br/><br/>
+			<a href="http://appshopper.com/games/take-it-easy">Take It Easy!</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 16:20:20 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Tap The Frog 2 HD  (Games)</title>
+		<link>http://appshopper.com/games/tap-the-frog-2-hd</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/tap-the-frog-2-hd-Thu, 23 Feb 2012 13:20:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/483/359044.png" align="left"/>
+			<h3>Tap The Frog 2 HD 1.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.0 (<a href="/link/tap-the-frog-2-hd">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r1000/099/Purple/1b/6f/5f/mzl.qjrzdoer.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Want to see why over 7,000,000 PEOPLE have played Tap the Frog and Tap the Frog 2 on their phones and online? Then, hop in and see how fast your fingers really are…Everyone’s favorite frog is back in Tap the Frog 2 and this time he’s on a mission to become a Frog Prince!  Can you help him to rise through the ranks and win his sweetheart back? Join the frog as he embarks on an adventure that will take him from the lily pads of his home pond to the farthest reaches of outer space. Do you have what it takes to help the frog pop, paint, jump, and build his way to victory? If so, jump in and see how fast your fingers are! Easy to play yet challenging to master, Tap the Frog 2 features hours of replay value. So what are you waiting for? Get tapping. Get Tap the Frog 2.Thanks to everyone who helped to make Tap the Frog 2 the #1 GAME IN SEVERAL COUNTRIES. REVIEWERS LOVE TAP THE FROG 2•This is definitely a well-polished game that’s quite entertaining. - Appadvice.com•The continuation of the phenomenally successful reaction game is even more fun than its free-of-charge predecessor. – iFun.de•Tap the Frog 2 is a very cool game! - iFloboleOUR FROG FANS LOVE IT EVEN MORE! •Awesome game, cutest frog character, state-of-art graphics and sound. Can't stop tapping. Adore the frog! - SophiaKaterina•This is the best app ever. Filled with froggy goodness. You really get your money’s worth! :) - Samuel T•It's awesome! I'm looking forward for more levels! Honestly! Amazing graphics and friendly gameplay. Good job guys! - JohnsonTan90•Frogtastic! - Jammin joe21Already a fan? LIKE US: http://www.facebook.com/tapthefrog FOLLOW US: http://www.twitter.com/tapthefrog<br/><br/>
+			<a href="http://appshopper.com/games/tap-the-frog-2-hd">Tap The Frog 2 HD</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 13:20:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Munch Time HD  (Games)</title>
+		<link>http://appshopper.com/games/munch-time-hd</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/munch-time-hd-Thu, 23 Feb 2012 09:20:20 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/501/055324.png" align="left"/>
+			<h3>Munch Time HD 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.0 (<a href="/link/munch-time-hd">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r1000/101/Purple/5a/e3/d1/mzl.qjkftlcw.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			“Munch Time is another heart meltingly cute game headed for the iPad” - Touch Arcade“This will undoubtedly keep us occupied for quite some time” - Trap Magazine---Time to get munch'n!SWING AND GOMeet Munch, a chameleon and his quest for lunch that the player must guide him through.  Swing  around using your super strong tongue to reach the most difficult places! Latch onto different flowers for different acrobatic effects!CHANGE COLORFlowers have various colors and Munch will need to change color according to the flower he wants to latch onto. But there's a problem: Munch can't change color on his own and requires the help of special color flies that are flying around. SKILLFULL PUZZLESThroughout more than 40 levels, spread across two themes, you will encounter various flower types that react differently when Munch latches onto them, creating an exciting mash of puzzles and challenges, combined with quick reflex acrobatics and simple touch-based controls, for an intuitive experience.LATEST FEATURESOf course Munch Time is fully integrated with all latest iOS 5 features–--Rate 5 stars and secure future content!Follow us on:www.facebook.com/gamistrygameswww.facebook.com/munchtimegamewww.twitter.com/gamistryhttp://www.youtube.com/user/gamistry<br/><br/>
+			<a href="http://appshopper.com/games/munch-time-hd">Munch Time HD</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 09:20:20 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Toca House  (Education)</title>
+		<link>http://appshopper.com/education/toca-house</link>
+		<category>Education</category>
+		<guid isPermaLink="false">http://appshopper.com/education/toca-house-Thu, 23 Feb 2012 09:20:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/495/680460.png" align="left"/>
+			<h3>Toca House 1.0.1</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Education<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.0.1 (<a href="/link/toca-house">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/089/Purple/57/fa/96/mzl.qtwrelai.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Welcome to Toca House! Help the five friends to do fun chores around a cosy house. Let your kids do the dishes, ironing, sweeping or planting flowers in the garden. Loads of fun with 19 different mini-games! And if your kids liked Toca Doctor, they are going to LOVE Toca House!* PLEASE NOTE: This toy is designed and intended for children age 2-6. But you can have fun with it if you're older too :) *FEATURES- 19 different mini-games to play with- Domestically themed mini-games - teach kids what needs to be done around the house!- Loads of variation - different order of the games each time- Fantastic original artwork!- Convenient time to pause or take turns when the sun sets after playing ten mini-games- Fun sounds and animations!- No rules or stress - play any way your kids want to!- Kid-friendly interface!- NO THIRD-PARTY ADVERTISING- NO IN-APP PURCHASESToca House is a free play toy for kids that takes them through the everyday chores of a household. Cleaning, washing windows, deliver mail, taking a bath or mopping the floor. All familiar themes for kids that they see everyday, but often can't participate it. But now they can - and it's fun too! Play a series of mini-games that take place in and around the house with five super-cute characters. When the sun sets it's time to go to bed, but you can always play another round of course. This makes it perfect for turn-taking or a break to do something else too!Toca House is a digital toy from Toca Boca and is suitable for kids age 2 and above.If you like Toca House – try our other digital toys! - Toca Doctor - Toca Doctor Lite (FREE!) - Toca Kitchen- Toca Hair Salon - Toca Hair Salon - Christmas Gift (FREE!) - Toca Tea Party - Paint My Wings - Helicopter Taxi - Toca Store - Toca Robot Lab - Parenting's Birthday Party Playtime ...available for the iPhone, iPod Touch and iPad! Find all on http://www.tocaboca.com ABOUT TOCA BOCAToca Boca is a game studio that makes digital toys for kids. We think playing and having fun is the best way to learn about the world. Therefore we make digital toys and games that help stimulate the imagination, and that you can play together with your kids. Best of all - we do it in a safe way without third-party advertising or in-app purchases.<br/><br/><b>What's New</b><br /><br />- Minor bugfixes<br/><br/>
+			<a href="http://appshopper.com/education/toca-house">Toca House</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 09:20:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Towers N&#039; Trolls HD  (Games)</title>
+		<link>http://appshopper.com/games/towers-n-trolls-hd</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/towers-n-trolls-hd-Thu, 23 Feb 2012 05:20:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/500/387023.png" align="left"/>
+			<h3>Towers N&#039; Trolls HD 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $2.99, <b>Version:</b> 1.0 (<a href="/link/towers-n-trolls-hd">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/093/Purple/9f/65/d2/mzl.ekpmibxj.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			&quot;It's an addictive, creative game with some lovely aesthetics and challenging levels. If you're anything like me, it'll probably steal your soul.&quot; - KOTAKU&quot;Game of the Month&quot; - iDow.ru-------- A new kind of tower defense... from the creators of Toy Soldiers and Baldur's Gate: Dark Alliance! Defend your kingdom from invading troll hordes, with addictive quick-to-learn but difficult-to-master gameplay. Towers N' Trolls combines fast-paced arcade action with quick-thinking strategy. The tower defense genre is updated for 21st Century mobile gaming with nail-biting moments where your fate teeters on a razor's edge. No sitting and waiting for the enemy, they're already at your door - it's up to you to stop them!Towers N' Trolls features beautifully hand-painted environments and playful, light-hearted monsters from the Age of Fantasy. Play across 6 worlds and 30 unique maps, including the Lonely Forest, Fertile Pastures, Snowy Forest, Underworld, Badlands, and the North. -------- WHAT PEOPLE ARE SAYING &quot;Before playing Towers N' Trolls I could see only the visible light spectrum. Now I can see both ultraviolet and infrared! It's amazing, you should try it!&quot; &quot;When Cyclops invaded my neighborhood, I knew to build Scout Towers immediately... Thank you Towers N' Trolls for saving my family's life. The Johnsons next-door only had Catapults, and perished tragically.&quot; &quot;My son was a real problem in school. Since I bought him Towers N' Trolls, his teachers love him and he's earned straight A's!&quot; &quot;What other reason is there to buy an iPhone other than to play Towers N' Trolls?&quot; -------- FEATURES ★ Universal App (Works on iPhone &amp; iPad)! ★ 30 Levels! ★ 6 different worlds across completely different environments! ★ 10 Enemy types with thousands of frames of animation! ★ 3 Levels of Difficulty! ★ Unique, Hand Painted Backgrounds! ★ Randomized wave composition and loot generation provide countless hours of replayability! ★ Full Retina Graphics Support! ★ Leaderboards! ★ GameCenter Support! ★ Outrageous Special Weapons including - Powder Kegs, Mine Fields, and Poison Gas Clouds! -------- EMBER ENTERTAINMENT Visit us at Ember-Entertainment.com Like us at facebook.com/EmberEntertainmentFollow us at twitter.com/Ember_Dev<br/><br/>
+			<a href="http://appshopper.com/games/towers-n-trolls-hd">Towers N&#039; Trolls HD</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 05:20:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Sticky Sheep™  (Games)</title>
+		<link>http://appshopper.com/games/sticky-sheep</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/sticky-sheep-Thu, 23 Feb 2012 00:50:18 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/482/578400.png" align="left"/>
+			<h3>Sticky Sheep™ 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/sticky-sheep">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/064/Purple/c7/6b/95/mzl.szekmihl.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			The sheep have been baaa-d and are refusing to do as Baxter the sheepdogging Beagle tells them - so it’s time for drastic measures. Don your trusty canine crash helmet and get ready to ram some rams!PAR-FECT SHEPHERDINGSticky Sheep combines the fun gameplay of mini-golf with a crazy dog and fluffy animals. Use bumpers, turbo-paths, switches and more to bounce and bash the sheep around each level and onto their sticky pads. TWO GAMES IN ONE Play Story mode to complete levels and unlock ever-crazier shepherding worlds. Or have a blast on Arcade mode to try and capture as many sheep as you can in just 60 seconds! DOGGONE CRAZY SHEEP You goal is to land the sheep on their sticky pads, it sounds simple but it gets tricky quick! You’ll have to deal with all sorts of sheep and obstacles, including black sheep, rams and even volatile radioactive sheep! DON’T BLEAT AROUND THE BUSHTake on the increasingly challenging worlds, round up the sheep as you go. Remember to collect the coins scattered around each level for maximum points… and always be on the look out for ‘extra shot’ tokens. For more information or support, please visit www.chillingo.com<br/><br/>
+			<a href="http://appshopper.com/games/sticky-sheep">Sticky Sheep™</a><br /><br />
+		]]></description>
+		<pubDate>Thu, 23 Feb 2012 00:50:18 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Retro Racing  (Games)</title>
+		<link>http://appshopper.com/games/retro-racing</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/retro-racing-Wed, 22 Feb 2012 23:50:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/436/151675.png" align="left"/>
+			<h3>Retro Racing 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/retro-racing">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/102/Purple/b7/fb/01/mzl.pkphzsgc.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			** LAUNCH SALE ** 66% OFF **Racing up the UK AppStore charts! #63 overall. #37 in games. #12 in games&gt;arcade. #2 in games&gt;racing.By the same developer behind the classic Amiga racers, Nitro (Psygnosis) and ATR (Team17).Choose your car, then skid, slide, spin and drive around the track at break neck speed, collecting power-ups as you go. Master the perfect racing line, avoid other cars and cones, and speed your way to victory in this adrenaline pumping top-down racer for iPhone, iPod touch and iPad.Just how fast can you go?FEATURESUniversal app.Silky smooth 60FPS action.Two player head to head mode, on iPad only.PLEASE NOTE:We're currently working no an update that will allow you to unlock the IAP cars, by using skill, without having to buy them.<br/><br/>
+			<a href="http://appshopper.com/games/retro-racing">Retro Racing</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:50:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Midway Arcade  (Games)</title>
+		<link>http://appshopper.com/games/midway-arcade</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/midway-arcade-Wed, 22 Feb 2012 23:40:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/476/467441.png" align="left"/>
+			<h3>Midway Arcade 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/midway-arcade">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/118/Purple/9d/81/2d/mzl.zgesperq.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Limited time Launch Sale for Midway Arcade! Only &#36;.99USD - Includes 10 games!!! Spy Hunter, Rampage, Joust, Root Beer Tapper, Defender, and Arch Rivals. Plus 4 Arcade favorites: Air Hockey, Arcade Basketball, Pool, and Roll Ball.All your favorite arcade hits in the palm of your hand! Lose yourself in this virtual arcade experience featuring 12 popular arcade games from Midway presented in their original cabinet. There’s even a jukebox that lets users play music from their iTunes library and a virtual prize redemption center! Additional Arcade Hits are available for purchase as game packs. Game Pack 1 includes:- NARC- Total Carnage- APBGame Pack 2 includes:- Gauntlet- Gauntlet II- Wizard of WorThank you for your feedback, we have resolved a critical issue this morning. If you are still experiencing any problems with the game please email wirelesscs@wb.com so that we can resolve.Thank you, WB Customer Service<br/><br/>
+			<a href="http://appshopper.com/games/midway-arcade">Midway Arcade</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:40:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Lume HD  (Games)</title>
+		<link>http://appshopper.com/games/lume-hd</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/lume-hd-Wed, 22 Feb 2012 23:40:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/502/008751.png" align="left"/>
+			<h3>Lume HD 1.1</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $2.99, <b>Version:</b> 1.1 (<a href="/link/lume-hd">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r30/Purple/9e/7f/29/mzl.odllitgt.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			*** Finalist at IGF 2012: Excellence in Visual Art ***Lume: An illuminating puzzle adventure!&quot;Undoubtedly one of the most unique-looking games around.&quot; - Eurogamer&quot;The best of point and click gaming... amazing visual presentation.&quot; - Jay is Games&quot;Wow! The effect is breathtaking.&quot; - Rock, Paper, Shotgun&quot;A rare treat. Even Lume’s main menu is more beautiful than most big-budget shooters.&quot; - Bit-Gamer&quot;Charming to the extreme.&quot; - Games TMSmall and perfectly formed, introducing you to the perplexing world of Lume. The hit Indie game is now available for iPad in glorious HD, remastered with higher detail, more sounds and an improved interface for touch devices.With a set built entirely out of paper and cardboard, and sumptuously filmed, Lume is a game with a style unlike any other.Power to your grandad’s house has failed. What’s more, he’s nowhere to be seen. Immerse yourself in Lume’s photoreal world, solve perplexing paper puzzles to help restore the power, and uncover a deeper mystery behind the blackout.This game forms Part 1 of a larger, ongoing story.<br/><br/><b>What's New</b><br /><br />Please note the game is in ENGLISH only.Bug Fix - Gameplay critical animation tweak<br/><br/>
+			<a href="http://appshopper.com/games/lume-hd">Lume HD</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:40:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Munch Time  (Games)</title>
+		<link>http://appshopper.com/games/munch-time</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/munch-time-Wed, 22 Feb 2012 23:40:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/497/348641.png" align="left"/>
+			<h3>Munch Time 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/munch-time">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/067/Purple/5a/e3/d1/mzl.wprfevzr.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			“Munch Time is another heart meltingly cute game headed for the iPad” - Touch Arcade“This will undoubtedly keep us occupied for quite some time” - Trap Magazine---Time to get munch'n!SWING AND GOMeet Munch, a chameleon and his quest for lunch that the player must guide him through.  Swing  around using your super strong tongue to reach the most difficult places! Latch onto different flowers for different acrobatic effects!CHANGE COLORFlowers have various colors and Munch will need to change color according to the flower he wants to latch onto. But there's a problem: Munch can't change color on his own and requires the help of special color flies that are flying around. SKILLFULL PUZZLESThroughout more than 40 levels, spread across two themes, you will encounter various flower types that react differently when Munch latches onto them, creating an exciting mash of puzzles and challenges, combined with quick reflex acrobatics and simple touch-based controls, for an intuitive experience.LATEST FEATURESOf course Munch Time is fully integrated with all latest iOS 5 features!–--Rate 5 stars and secure future content!Follow us on:www.facebook.com/gamistrygameswww.facebook.com/munchtimegamewww.twitter.com/gamistryhttp://www.youtube.com/user/gamistry<br/><br/>
+			<a href="http://appshopper.com/games/munch-time">Munch Time</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:40:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Towers N&#039; Trolls  (Games)</title>
+		<link>http://appshopper.com/games/towers-n-trolls</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/towers-n-trolls-Wed, 22 Feb 2012 23:30:20 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/474/826004.png" align="left"/>
+			<h3>Towers N&#039; Trolls 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/towers-n-trolls">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r1000/075/Purple/9f/65/d2/mzl.iwqcqmnu.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			&quot;It's an addictive, creative game with some lovely aesthetics and challenging levels. If you're anything like me, it'll probably steal your soul.&quot; - KOTAKU&quot;Game of the Month&quot; - iDow.ru-------- A new kind of tower defense... from the creators of Toy Soldiers and Baldur's Gate: Dark Alliance! Defend your kingdom from invading troll hordes, with addictive quick-to-learn but difficult-to-master gameplay. Towers N' Trolls combines fast-paced arcade action with quick-thinking strategy. The tower defense genre is updated for 21st Century mobile gaming with nail-biting moments where your fate teeters on a razor's edge. No sitting and waiting for the enemy, they're already at your door - it's up to you to stop them!Towers N' Trolls features beautifully hand-painted environments and playful, light-hearted monsters from the Age of Fantasy. Play across 6 worlds and 30 unique maps, including the Lonely Forest, Fertile Pastures, Snowy Forest, Underworld, Badlands, and the North. -------- WHAT PEOPLE ARE SAYING &quot;Before playing Towers N' Trolls I could see only the visible light spectrum. Now I can see both ultraviolet and infrared! It's amazing, you should try it!&quot; &quot;When Cyclops invaded my neighborhood, I knew to build Scout Towers immediately... Thank you Towers N' Trolls for saving my family's life. The Johnsons next-door only had Catapults, and perished tragically.&quot; &quot;My son was a real problem in school. Since I bought him Towers N' Trolls, his teachers love him and he's earned straight A's!&quot; &quot;What other reason is there to buy an iPhone other than to play Towers N' Trolls?&quot; -------- FEATURES ★ 30 Levels! ★ 6 different worlds across completely different environments! ★ 10 Enemy types with thousands of frames of animation! ★ 3 Levels of Difficulty! ★ Unique, Hand Painted Backgrounds! ★ Randomized wave composition and loot generation provide countless hours of replayability! ★ Full Retina Graphics Support! ★ Leaderboards! ★ GameCenter Support! ★ Outrageous Special Weapons including - Powder Kegs, Mine Fields, and Poison Gas Clouds! -------- EMBER ENTERTAINMENT Visit us at Ember-Entertainment.com Like us at facebook.com/EmberEntertainmentFollow us at twitter.com/Ember_Dev<br/><br/>
+			<a href="http://appshopper.com/games/towers-n-trolls">Towers N&#039; Trolls</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:30:20 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Lume  (Games)</title>
+		<link>http://appshopper.com/games/lume</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/lume-Wed, 22 Feb 2012 23:30:20 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/502/421311.png" align="left"/>
+			<h3>Lume 1.1</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.1 (<a href="/link/lume">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r30/Purple/85/c1/0e/mzl.xmsbdvea.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			*** Finalist at IGF 2012: Excellence in Visual Art *** Lume: An illuminating puzzle adventure! &quot;Undoubtedly one of the most unique-looking games around.&quot; - Eurogamer &quot;The best of point and click gaming... amazing visual presentation.&quot; - Jay is Games &quot;Wow! The effect is breathtaking.&quot; - Rock, Paper, Shotgun &quot;A rare treat. Even Lume’s main menu is more beautiful than most big-budget shooters.&quot; - Bit-Gamer &quot;Charming to the extreme.&quot; - Games TM Small and perfectly formed, introducing you to the perplexing world of Lume. The hit Indie game Lume is now available for iPhone in glorious remastered with higher detail for iPhone 4 and above, more sounds and an improved interface for touch devices. With a set built entirely out of paper and cardboard, and sumptuously filmed, Lume is a game with a style unlike any other. Power to your grandad’s house has failed. What’s more, he’s nowhere to be seen. Immerse yourself in Lume’s photoreal world, solve perplexing paper puzzles to help restore the power, and uncover a deeper mystery behind the blackout. This game forms Part 1 of a larger, ongoing story.<br/><br/><b>What's New</b><br /><br />Please note the game is in ENGLISH only.Bug Fix - Gameplay critical animation tweak<br/><br/>
+			<a href="http://appshopper.com/games/lume">Lume</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:30:20 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> FINAL FANTASY TACTICS: THE WAR OF THE LIONS for iPad  (Games)</title>
+		<link>http://appshopper.com/games/final-fantasy-tactics-the-war-of-the-lions-for-ipad</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/final-fantasy-tactics-the-war-of-the-lions-for-ipad-Wed, 22 Feb 2012 23:20:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/500/098096.png" align="left"/>
+			<h3>FINAL FANTASY TACTICS: THE WAR OF THE LIONS for iPad 1.0.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $17.99, <b>Version:</b> 1.0.0 (<a href="/link/final-fantasy-tactics-the-war-of-the-lions-for-ipad">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r30/Purple/a6/86/e6/mzl.yssrgoqu.480x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			On the heels of its iPhone and iPod touch releases, Final Fantasy Tactics: The War of the Lions comes to the iPad!Final Fantasy Tactics was the first tactical RPG in the Final Fantasy series. Originally released on the PlayStation in 1997, the game has since gone on to sell over 1.3 million units in total. The PSP remake, &quot;Final Fantasy Tactics: War of the Lions&quot; was released to critical acclaim in 2007 featuring added cutscenes, expanded storylines, and new jobs.Now, in 2012, the battle continues on the iPad! Delve into deep strategic battle mechanics that feature tactical role-playing at its best and savor the story that put Ivalice on the map, all in their full glory on the iPad's screen.■Features- Intuitive touch panel controlsNavigating the complex tactical RPG landscape is as simple as tapping units and spaces. Setting up is quick and easy as well. No longer limited to the fixed isometric camera angles of the original, players now have total freedom to rotate the camera, slide around the field, and zoom in or out!- Reduced Wait TimesWait times have been sped up to keep players in the action. Cutscenes can also be skipped.- Optimized GraphicsThe game has been designed to fit just right on the iPad's screen.■Planned UpdatesHigher-res graphics for unit charactersBattle scene fast-forward featureEvent scene skip/fast-forward feature<br/><br/>
+			<a href="http://appshopper.com/games/final-fantasy-tactics-the-war-of-the-lions-for-ipad">FINAL FANTASY TACTICS: THE WAR OF THE LIONS for iPad</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 23:20:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> InstaMatch — The Instagram Game  (Photography)</title>
+		<link>http://appshopper.com/photography/instamatch-%e2%80%94-the-instagram-game</link>
+		<category>Photography</category>
+		<guid isPermaLink="false">http://appshopper.com/photography/instamatch-%e2%80%94-the-instagram-game-Wed, 22 Feb 2012 21:50:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/488/540376.png" align="left"/>
+			<h3>InstaMatch — The Instagram Game 1.0</h3><br/>
+			<b>Device:</b> iOS Universal<br />
+			<b>Category:</b> Photography<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/instamatch-%e2%80%94-the-instagram-game">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r1000/062/Purple/d5/c2/c0/mzl.qtkuqwkh.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			☆LAUNCH SALE ☆ Get InstaMatch - the beautiful new Instagram game on sale at 99¢ for a limited time!This isn’t your ordinary matching game! InstaMatch combines photos from the popular iPhone app Instagram with clever twists on the classic card-matching puzzle game to add loads of fun to your photos! With InstaMatch, your goal is to match two similar photos of the same kind. Choose from five themes, packed with some of the most popular photos from Instagram including: World Wonders, Cities, Nature, Food, and Animals! You can play with your own Instagram photos or any of the tagged photos on Instagram. And with over 500 million photos available on Instagram, there’s no limit to the fun you can have matching beautiful photos!   Other awesome features include:•   Multi-player: up to 2 players on iPhone and 4 players on iPad•   Moving cards for added difficulty in Hard mode•   Detailed scoring system and Game Center integration for leaderboards•Browse and discover new Instagram photos and add them to your ‘Likes’ with a double tap!•   Share your Photo Scorecard on Instagram, Twitter, or Facebook•   2-for-1: Works great on both the iPhone and iPad all for one price*You don’t need an Instagram account to play Instamatch but it is recommended mainly b/c Instagram is awesome! This product uses the Instagram API but is not endorsed or certified by Instagram. Internet connection is needed to play.~ Turn your photos into Fun with InstaMatch ~<br/><br/>
+			<a href="http://appshopper.com/photography/instamatch-%e2%80%94-the-instagram-game">InstaMatch — The Instagram Game</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 21:50:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Miragine War  (Games)</title>
+		<link>http://appshopper.com/games/miragine-war</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/miragine-war-Wed, 22 Feb 2012 18:40:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/502/844118.png" align="left"/>
+			<h3>Miragine War 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/miragine-war">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r30/Purple/e3/fe/98/mzl.thjkmoxw.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Strategically outmaneuver your enemy by picking the perfect soldiers to counterattack! Each unit has a specific set of strengths and weaknesses—select wisely to win the warif you like this game. please support us. we will keep refine it.Contact us:miragine@gmail.com<br/><br/>
+			<a href="http://appshopper.com/games/miragine-war">Miragine War</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 18:40:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> MIGHTY MOUSE My Hero  (Games)</title>
+		<link>http://appshopper.com/games/mighty-mouse-my-hero</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/mighty-mouse-my-hero-Wed, 22 Feb 2012 11:50:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/479/952446.png" align="left"/>
+			<h3>MIGHTY MOUSE My Hero 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/mighty-mouse-my-hero">iTunes</a>) <br/><br/>
+			<img src="http://a3.mzstatic.com/us/r1000/075/Purple/ee/21/13/mzl.opcdrsfh.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			&quot;HERE I COME TO SAVE THE DAY!&quot;Mighty Mouse, the beloved cartoon superstar of yesteryear, flies into the 21st Century on your iPhone and iPod touch! Play as Mighty Mouse through more than sixty levels of non-stop action, as he punches out a host of villains in an exciting fight to save Pearl Pureheart, his true love. Nothing makes a mouse happier than good cheese - collect it as rewards for accomplishments or purchase a wedge to gain power-ups and new costumes. Immerse yourself in this extraordinary, colorful cartoon world. With dynamic flight mechanics and a motley assortment of bad guys, you’ll be challenged and thrilled by MIGHTY MOUSE My Hero.FEATURES:- Over 60 levels!- Earn cheese to get new costumes and incredible power-ups- Fly through 3 worlds as you punch out bad guys to save the girl- Catch and defeat Mighty Mouse’s adversaries, including Oil Can Harry!<br/><br/>
+			<a href="http://appshopper.com/games/mighty-mouse-my-hero">MIGHTY MOUSE My Hero</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 11:50:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Mafiatown  (Games)</title>
+		<link>http://appshopper.com/games/mafiatown</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/mafiatown-Wed, 22 Feb 2012 09:50:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/501/616801.png" align="left"/>
+			<h3>Mafiatown 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/mafiatown">iTunes</a>) <br/><br/>
+			<img src="http://a1.mzstatic.com/us/r30/Purple/f0/46/48/mzl.helajxvw.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			Badfellas are ruling the streets of Mafiatown! Facing terrible threats and attacks every night, businesses are forced to close; the shopkeepers are turning to you for help and ask you to be their protector. If too many shops close, the shopkeepers will lose faith in you and the neighborhood will remain unsafe but if you succeed, they will reward you generously and other businesses will come to settle in town.Rush to the shops, shoot the badfellas, collect the cash, upgrade your guns, speed up the pace, clear vendettas, protect more shops and become a hero for the townspeople!Do you think you have what it takes to clean the badfellas out of town ? Are you worthy of the shopkeepers’ trust ?<br/><br/>
+			<a href="http://appshopper.com/games/mafiatown">Mafiatown</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 09:50:21 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> Buzz Contacts  (Productivity)</title>
+		<link>http://appshopper.com/productivity/buzz-contacts</link>
+		<category>Productivity</category>
+		<guid isPermaLink="false">http://appshopper.com/productivity/buzz-contacts-Wed, 22 Feb 2012 09:20:22 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/500/923682.png" align="left"/>
+			<h3>Buzz Contacts 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Productivity<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/buzz-contacts">iTunes</a>) <br/><br/>
+			<img src="http://a5.mzstatic.com/us/r30/Purple/50/53/61/mzl.jeqaeyqe.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			From the creators of the App Store’s top calendar application Agenda, comes the fastest way to stay in touch with your family, friends, and coworkers...Buzz Contacts. I have been using Buzz, and it's great. It's in my dock right now. Launching this week.— Federico Viticci, Editor of MacStories.netHave you ever wished the Phone and Contact apps were more efficient or better organized? Yeah, me neither. But Buzz Contacts is quickly changing my mind.— J. Glenn Künzler, Managing Editor of MacTrastI’m certainly impressed with Buzz, and I will definitely be keeping this one on my home screen.— Christine Chan, AppAdviceBuzz has a simple, beautiful interface for performing some of the iPhone's most integral functions efficiently.— Jon Mitchell, ReadWriteWebStyle, innovation and speed – three adjectives that can be used to accurately describe Buzz Contacts.— Nikhil Katti, Editor of iPhoneAlley*Read all reviews at http://bit.ly/buzz-reviewsWith Buzz, you’ll no longer scroll through long lists to get in touch with people. Instead, your favorite contacts are organized into groups (e.g., “Family”). Each of them are a tap away with one touch calls, messaging (SMS), email, or FaceTime. Buzz also introduces a concept from Agenda called “status taps,” which provides you with the ability to send frequently used phrases like, “On my way home.” or “What are you up to?” to an individual contact or any number of contacts in a group. Besides status taps, Buzz provides two ways to interact with your favorite contacts...the traditional list view and our innovative “grid view,” which makes it amazingly easy to keep your most favorite contacts a tap away. Buzz also includes a beautiful dialer, which allows you to dial by name or number.Buzz is moving into most people's docks and it's ready to become your main app for staying in touch. Enjoy! :)  =====FEATURES==================+ Quickly add contacts from within Buzz via your local iOS Address Book+ Assign a specific action (e.g., call or SMS) to each favorite contact added+ Actions include one touch calls, messaging (SMS), email, or FaceTime+ Double-tap a favorite contact to see all actions available + In app messaging and emails allow you to always stay in Buzz+ Leave &quot;Confirm Calls&quot; on to also return to Buzz after a call+ Turn on “status taps” to send frequently used phrases via SMS or email+ View contacts in the innovative “grid” or traditional “list” view+ Organize contacts into groups; fast switching between groups via the slide-out menu+ Tap title bar to rename group + Group actions to send a message or email any number of contacts in a group + Incredible dialer that allows dialing by name or number+ Ability to access all contacts and edit them from the iOS Address Book=====SUPPORT==============Our support team is one of the best in the App Store. Have a question or concern about the app? Have a feature request? Visit the settings to drop a quick email from inside the app or head over to the Buzz site at http://getappsavvy.com/buzz, where we have a FAQ that addresses 98% of all questions.<br/><br/>
+			<a href="http://appshopper.com/productivity/buzz-contacts">Buzz Contacts</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 09:20:22 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> MIGHTY MOUSE My Hero HD  (Games)</title>
+		<link>http://appshopper.com/games/mighty-mouse-my-hero-hd</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/mighty-mouse-my-hero-hd-Wed, 22 Feb 2012 07:40:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/493/145403.png" align="left"/>
+			<h3>MIGHTY MOUSE My Hero HD 1.0</h3><br/>
+			<b>Device:</b> iOS iPad Only<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $1.99, <b>Version:</b> 1.0 (<a href="/link/mighty-mouse-my-hero-hd">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/084/Purple/ee/21/13/mzl.wlikavik.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			&quot;HERE I COME TO SAVE THE DAY!&quot;Mighty Mouse, the beloved cartoon superstar of yesteryear, flies into the 21st Century on your iPad! Play as Mighty Mouse through more than sixty levels of non-stop action, as he punches out a host of villains in an exciting fight to save Pearl Pureheart, his true love. Nothing makes a mouse happier than good cheese - collect it as rewards for accomplishments or purchase a wedge to gain power-ups and new costumes. Immerse yourself in this extraordinary, colorful cartoon world. With dynamic flight mechanics and a motley assortment of bad guys, you’ll be challenged and thrilled by MIGHTY MOUSE My Hero HD.FEATURES:- Over 60 levels!- Earn cheese to get new costumes and incredible power-ups- Fly through 3 worlds as you punch out bad guys to save the girl- Catch and defeat Mighty Mouse’s adversaries, including Oil Can Harry!<br/><br/>
+			<a href="http://appshopper.com/games/mighty-mouse-my-hero-hd">MIGHTY MOUSE My Hero HD</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 07:40:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> BeyondDead  (Games)</title>
+		<link>http://appshopper.com/games/beyonddead</link>
+		<category>Games</category>
+		<guid isPermaLink="false">http://appshopper.com/games/beyonddead-Wed, 22 Feb 2012 02:40:19 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/488/334170.png" align="left"/>
+			<h3>BeyondDead 1.0.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Games<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0.0 (<a href="/link/beyonddead">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/067/Purple/c2/bf/0b/mzl.mghnqtnr.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			REQUIRES****iPhone 3GS AND ABOVE********iPod 4G AND ABOVE*********iPad 2 AND ABOVE********Special for the launch version only, unlock the Rock-Saw weapon! this weapon will not be available after the first update, get it while you can!****  For game updates on upcoming chapters and previews visit www.monsterobotstudios.com or follow monsterrobotGC on twitterSomething has gone wrong with terraforming project 1470, and it's up to Tank and Vera, a team of mercenaries, to discover the truth. Travel to the Asteriae system and explore astroid facility in this massive open world adventure like classic SNES games of old! SZC: Beyond Dead Chapter I features:*totally customizable control systems, use intuitive touch screens to walk, jump and shoot, switch to classic old school buttons, or use some of each.*Awesome auto save, play for 5 minutes or 45 mins, you start right where you left off no matter what*tons of cool weapons, collect energy cells to buy new weapons and items and upgrade the ones you already have *12 in-game achievements to test your skill*awesome boss battles and puzzlesWatch the trailer on youtube:http://www.youtube.com/watch?v=MK3Wb0KIIt8The story continues in chapter IIwith new weapons/enemies/bosses/achievements/and much more!Each new chapter will be a free update*****************************Please rate and review SZC so we can keep making cool games! And don't forget to check out Monster Robot Studios' other games:Bridge the GapGravCat<br/><br/>
+			<a href="http://appshopper.com/games/beyonddead">BeyondDead</a><br /><br />
+		]]></description>
+		<pubDate>Wed, 22 Feb 2012 02:40:19 EST</pubDate>
+		</item>
+		
+		<item>
+		<title> PolarCam - Instant Retro Camera  (Photography)</title>
+		<link>http://appshopper.com/photography/polarcam-instant-retro-camera</link>
+		<category>Photography</category>
+		<guid isPermaLink="false">http://appshopper.com/photography/polarcam-instant-retro-camera-Tue, 21 Feb 2012 15:30:21 EST-new</guid>
+		<description><![CDATA[
+			<img src="http://images.appshopper.com/icons/499/829872.png" align="left"/>
+			<h3>PolarCam - Instant Retro Camera 1.0</h3><br/>
+			<b>Device:</b> iOS iPhone<br />
+			<b>Category:</b> Photography<br />
+			<b>Price:</b> $.99, <b>Version:</b> 1.0 (<a href="/link/polarcam-instant-retro-camera">iTunes</a>) <br/><br/>
+			<img src="http://a4.mzstatic.com/us/r1000/099/Purple/30/a7/e8/mzl.dyktkwej.320x480-75.jpg" align="right"/>
+			<b>Description:</b><br /><br />
+			PolarCam offers a fun, super simple and smooth experience to take retro effect photo &amp; video instantly. Transform everyday moments back in time to the beauty and magic of classic retro work of art. Main Features:☆ A great unique classic retro look to your photos and video☆ Live retro-classic filter for both photo &amp; video☆ What you see is what you get, no after-shoot-process, no preview needed. All live☆ Automatic Geotag in photo EXIF☆ Autosave in camera roll☆ Touch to focus both for photo &amp; videoPhoto resolution- iPhone 4S:       2896x2448- iPhone 4:         2048x1730- iPhone 3GS:     1817x1536- iTouch 4 /iPad 2: 852x720Please contact contact@moregg.com for support &amp; help.<br/><br/>
+			<a href="http://appshopper.com/photography/polarcam-instant-retro-camera">PolarCam - Instant Retro Camera</a><br /><br />
+		]]></description>
+		<pubDate>Tue, 21 Feb 2012 15:30:21 EST</pubDate>
+		</item>
+		
+	</channel>
+</rss>

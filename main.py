@@ -1,6 +1,5 @@
 #
-# Attempt #2 with BeautifulSoup
-# What the hell kind of name is that anyway?
+# 
 #
 #
 
@@ -21,12 +20,12 @@ soup = ''
 items = []
 
 
-# Opens the url and stores the data in variable xml
+# Opens the feed
 file = urllib2.urlopen(url)
 xml = file.read()
 file.close()
 
-# Removes CDATA and illegal characters from file
+# Remove CDATA to make parseable
 illegal1 = '<![CDATA['
 illegal2 = ']]>'
 xml = xml.replace(illegal1, '').replace(illegal2, '')
@@ -34,13 +33,10 @@ xml = xml.replace(illegal1, '').replace(illegal2, '')
 
 soup = BeautifulSoup(xml)
 
-# List of only the xml data in item tags: <item>...</item>,
-# should contain 40 items
 items = soup.findAll('item')
 
 
-# Parses the items in the xml feed and appends game title, date, and img url
-# to the CSV data string
+# Parse the items in the xml feed and append to csv string
 for i in range(len(items)):
     
     # For each item, parser extracts the contents of the 'title', 'pubdate',
